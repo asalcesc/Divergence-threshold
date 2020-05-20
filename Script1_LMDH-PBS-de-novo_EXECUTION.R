@@ -1,7 +1,7 @@
 ##########################################################################
 # SCRIPT 1. Applying genetic divergence threshold to establish de novo LMDH or PBS
 ## Created by Carmelo Ándujar 2020
-## Supporting material of Salces-Castellano et al. (2020) Climate drives community‐wide divergence within species over a limited spatial scale: evidence from an oceanic island
+## Supporting material of Salces-Castellano et al. (2020) doi 10.1111/ele.13433
 ##########################################################################
 
 
