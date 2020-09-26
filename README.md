@@ -1,11 +1,12 @@
 # Threshold-LMDH-PBS
 Supporting Material of Salces-Castellano et al. (2020) doi 10.1111/ele.13433.
+Supporting Material of Salces-Castellano et al. (in prep)
 
-Custom R scripts created by Carmelo Andújar to apply a genetic divergence threshold on the phylogenetic tree, and establish LMDH and PBS.
+Custom R scripts created by Carmelo Andújar to apply a genetic divergence threshold on the phylogenetic tree, and establish lineages of maternal dispersal history (LMDH) and presumed biological species (PBS).
 
-Script 1 - To apply without previous information and establish de novo LMDH and PBS.
+Script 1 - For applying without previous information, to establish de novo LMDH and PBS.
 
-Script 2 - To apply considering previous established LMDH or PBS.
+Script 2 - For applying with previous established LMDH or PBS.
 
 Instrucctions:
 
