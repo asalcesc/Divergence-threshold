@@ -1,6 +1,6 @@
 ##########################################################################
 # SCRIPT 1. Applying divergence threshold to define de novo LMDH or PBS
-## Created by Carmelo Ándujar 2020
+## Created by Carmelo Andújar 2020
 ## Supporting material of (i) Salces-Castellano et al. (2020) doi 10.1111/ele.13433 and (ii) Salces-Castellano et al. (in rev)
 ##########################################################################
 
