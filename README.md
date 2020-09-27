@@ -1,4 +1,4 @@
-# Threshold-LMDH-PBS
+# Divergence-threshold
 Supporting Material of Salces-Castellano et al. (2020) doi 10.1111/ele.13433.
 Supporting Material of Salces-Castellano et al. (in prep).
 
