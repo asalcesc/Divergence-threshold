@@ -1,6 +1,5 @@
 # Divergence-threshold
-Supporting Material of Salces-Castellano et al. (2020) doi 10.1111/ele.13433.
-Supporting Material of Salces-Castellano et al. (2021) doi 10.1098/rspb.2020.2646.
+Supporting Material of Salces-Castellano et al. 2020 (doi 10.1111/ele.13433) and Salces-Castellano et al. 2021 (doi 10.1098/rspb.2020.2646).
 
 Custom R scripts created by Carmelo Andújar to apply a maximum intraspecific divergence threshold on the phylogenetic tree, and define lineages of maternal dispersal history (LMDH) and presumed biological species (PBS).
 
